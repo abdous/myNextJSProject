@@ -1,0 +1,2 @@
+# myNextJSProject
+For learning purpose
